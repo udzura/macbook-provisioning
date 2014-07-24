@@ -1,4 +1,7 @@
 ---
+- name: Install Go
+  homebrew: name=go state=present install_options=cross-compile-common
+
 - name: Check Go Commands
   stat: path={{ home_dir }}/.go/bin/{{ item | basename }}
   with_items: go_applications
