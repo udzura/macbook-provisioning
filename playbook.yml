@@ -20,6 +20,7 @@
       - dropbox
       - unity-web-player
       - flash-player
+      - keepassx
     application_dir: /Applications
     brews:
       - ack
