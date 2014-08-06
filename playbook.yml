@@ -45,6 +45,7 @@
       - coreutils
       - findutils
       - gcc
+      - git
       - mysql
       - mysql51
     caskroom_dir: /usr/local/caskroom
