@@ -1,6 +1,6 @@
 ---
 - name: Install Emacs
-  homebrew: name=emacs state=present install_options=cocoa,without-x
+  homebrew: name=emacs state=present install_options=japanese,cocoa,without-x
   register: emacs_install
 
 - name: Link Emacs
