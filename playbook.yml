@@ -24,6 +24,7 @@
     application_dir: /Applications
     brews:
       - ack
+      - ag
       - chromedriver
       - docker
       - boot2docker
