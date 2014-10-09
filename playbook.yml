@@ -49,6 +49,7 @@
       - git
       - mysql
       - mysql51
+      - imagemagick
     caskroom_dir: /usr/local/caskroom
 #    dotfiles_dir: /Users/udzura/Code/dotfiles
     email: '{{ email }}'
