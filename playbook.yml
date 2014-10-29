@@ -21,6 +21,7 @@
       - unity-web-player
       - flash-player
       - keepassx
+      - font-vl-gothic
     application_dir: /Applications
     brews:
       - ack
