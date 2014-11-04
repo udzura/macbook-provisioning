@@ -22,6 +22,7 @@
       - flash-player
       - keepassx
       - font-vl-gothic
+      - android-studio
     application_dir: /Applications
     brews:
       - ack
