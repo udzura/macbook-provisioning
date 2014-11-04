@@ -23,6 +23,7 @@
       - keepassx
       - font-vl-gothic
       - android-studio
+      - android-studio-bundle
     application_dir: /Applications
     brews:
       - ack
