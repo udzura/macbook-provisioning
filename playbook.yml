@@ -24,6 +24,7 @@
       - font-vl-gothic
       - android-studio
       - android-studio-bundle
+      - genymotion
     application_dir: /Applications
     brews:
       - ack
