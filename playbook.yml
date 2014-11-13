@@ -54,6 +54,7 @@
       - mysql
       - mysql51
       - imagemagick
+      - dnsmasq
     caskroom_dir: /usr/local/caskroom
 #    dotfiles_dir: /Users/udzura/Code/dotfiles
     email: '{{ email }}'
