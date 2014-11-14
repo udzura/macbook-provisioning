@@ -5,6 +5,7 @@
     applications:
       - firefox
       - google-chrome
+      - dash
       - gpgtools
       - limechat
       - sequel-pro
