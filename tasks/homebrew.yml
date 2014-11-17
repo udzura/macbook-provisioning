@@ -13,6 +13,9 @@
 - name: Tap homebrew/versions
   shell: brew tap homebrew/versions
 
+- name: Tap homebrew/binary
+  shell: brew tap homebrew/binary
+
 - name: Tap east301/misc for vl gothic
   shell: brew tap east301/misc
 

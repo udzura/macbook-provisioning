@@ -56,6 +56,8 @@
       - mysql51
       - imagemagick
       - dnsmasq
+      - s3cmd
+      - packer
     caskroom_dir: /usr/local/caskroom
 #    dotfiles_dir: /Users/udzura/Code/dotfiles
     email: '{{ email }}'
