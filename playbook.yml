@@ -26,6 +26,8 @@
       - android-studio
       - android-studio-bundle
       - genymotion
+      - adobe-reader
+      - adobe-reader-font-packs-asian
     application_dir: /Applications
     brews:
       - ack
@@ -58,6 +60,7 @@
       - dnsmasq
       - s3cmd
       - packer
+      - android-sdk
     caskroom_dir: /usr/local/caskroom
 #    dotfiles_dir: /Users/udzura/Code/dotfiles
     email: '{{ email }}'
